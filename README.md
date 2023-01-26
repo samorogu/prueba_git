@@ -1,2 +1,2 @@
 # prueba_git
-prueba
+prueba desde mi computadora
